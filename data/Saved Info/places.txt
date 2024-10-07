@@ -1,0 +1,51 @@
+Family Mall
+MALL
+915 700
+American University of Iraq, Sulaimani
+INSTITUTION
+334 429
+City Center
+MALL
+633 420
+Azadi Park
+PARK
+920 530
+Grand Millennium Hotel
+HOTEL
+759 453
+Sulaymaniyah Museum
+MUSEUM
+902 570
+Bakrajo District
+DISTRICT
+350 580
+Industrial District
+DISTRICT
+680 680
+Slemani Palace
+HOTEL
+960 590
+Bar Darki Sara
+MUSEUM
+1030 575
+City Star Mall
+MALL
+867 554
+Majidi Mall
+MALL
+473 488
+Sulaymaniyah Airport
+AIRPORT
+160 490
+Sulaymaniyah International Stadium
+STADIUM
+918 645
+Garden City
+COMPOUND
+980 336
+Qaiwan Mall
+MALL
+935 581
+German Village
+COMPOUND
+1112 347
